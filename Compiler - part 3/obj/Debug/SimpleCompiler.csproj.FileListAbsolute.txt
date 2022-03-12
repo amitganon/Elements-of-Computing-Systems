@@ -1,0 +1,37 @@
+D:\Research\projects\ECS\ExpressionCompiler\bin\Debug\ExpressionCompiler.exe.config
+D:\Research\projects\ECS\ExpressionCompiler\bin\Debug\ExpressionCompiler.exe
+D:\Research\projects\ECS\ExpressionCompiler\bin\Debug\ExpressionCompiler.pdb
+D:\Research\projects\ECS\ExpressionCompiler\obj\Debug\ExpressionCompiler.exe
+D:\Research\projects\ECS\ExpressionCompiler\obj\Debug\ExpressionCompiler.pdb
+D:\Research\projects\ECS\ExpressionCompiler\obj\Debug\SimpleCompiler.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\2016\Ex3.2\SimpleCompiler\bin\Debug\ExpressionCompiler.exe.config
+D:\Teaching\ECS\2016\Ex3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2016\Ex3.2\SimpleCompiler\obj\Debug\ExpressionCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.2\Solution\bin\Debug\ExpressionCompiler.exe.config
+D:\Teaching\ECS\2016\Ex3.2\Solution\obj\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2016\Ex3.2\Solution\obj\Debug\ExpressionCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.2\Solution\bin\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2016\Ex3.2\Solution\bin\Debug\ExpressionCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.2\Solution\obj\Debug\SimpleCompiler.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\2017\Ex3.2\Solution\obj\Debug\SimpleCompiler.csproj.CoreCompileInputs.cache
+D:\Teaching\ECS\2017\Ex3.2\Solution\obj\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2017\Ex3.2\Solution\obj\Debug\ExpressionCompiler.pdb
+D:\Teaching\ECS\2017\Ex3.2\Solution\bin\Debug\ExpressionCompiler.exe.config
+D:\Teaching\ECS\2017\Ex3.2\Solution\bin\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2017\Ex3.2\Solution\bin\Debug\ExpressionCompiler.pdb
+D:\Teaching\ECS\2017\Ex3.2\Solution\obj\Debug\SimpleCompiler.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\2017\Ex3.3\Solution\bin\Debug\ExpressionCompiler.exe.config
+D:\Teaching\ECS\2017\Ex3.3\Solution\bin\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2017\Ex3.3\Solution\bin\Debug\ExpressionCompiler.pdb
+D:\Teaching\ECS\2017\Ex3.3\Solution\obj\Debug\SimpleCompiler.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\2017\Ex3.3\Solution\obj\Debug\SimpleCompiler.csproj.CoreCompileInputs.cache
+D:\Teaching\ECS\2017\Ex3.3\Solution\obj\Debug\ExpressionCompiler.exe
+D:\Teaching\ECS\2017\Ex3.3\Solution\obj\Debug\ExpressionCompiler.pdb
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.AssemblyReference.cache
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.SuggestedBindingRedirects.cache
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\obj\Debug\SimpleCompiler.csproj.CoreCompileInputs.cache
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\obj\Debug\ExpressionCompiler.exe
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\obj\Debug\ExpressionCompiler.pdb
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\bin\Debug\ExpressionCompiler.exe.config
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\bin\Debug\ExpressionCompiler.exe
+D:\Amit Ganon\Software Engineering\semester C\Elements of Computing Systems\hw3.3\SimpleCompiler\bin\Debug\ExpressionCompiler.pdb

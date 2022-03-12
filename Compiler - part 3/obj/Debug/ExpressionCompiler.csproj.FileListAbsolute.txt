@@ -1,0 +1,6 @@
+D:\Research\projects\ECS\ExpressionCompiler\obj\Debug\ExpressionCompiler.csprojResolveAssemblyReference.cache
+D:\Research\projects\ECS\ExpressionCompiler\bin\Debug\ExpressionCompiler.exe.config
+D:\Research\projects\ECS\ExpressionCompiler\bin\Debug\ExpressionCompiler.exe
+D:\Research\projects\ECS\ExpressionCompiler\bin\Debug\ExpressionCompiler.pdb
+D:\Research\projects\ECS\ExpressionCompiler\obj\Debug\ExpressionCompiler.exe
+D:\Research\projects\ECS\ExpressionCompiler\obj\Debug\ExpressionCompiler.pdb

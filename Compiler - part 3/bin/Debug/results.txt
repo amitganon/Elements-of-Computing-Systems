@@ -1,0 +1,1 @@
+Testing errors early termination, errors = 0
