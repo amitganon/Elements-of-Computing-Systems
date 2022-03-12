@@ -1,5 +1,5 @@
 # Elements-of-Computing-Systems
-My full implementation from nand gate to a 16-bit compiler
+My full implementation from Nand gate to a 16-bit ALU, CPU, Assembly, Machine code and finally compiler
 
 3 parts of implementation
 
