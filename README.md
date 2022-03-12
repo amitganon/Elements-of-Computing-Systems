@@ -10,6 +10,7 @@ My full implementation from Nand gate to a 16-bit ALU, CPU, Assembly, Machine co
 2. - I implement a full Assembly and CPU.
    - connect all the parts (Cpu, Alu, memory, and more).
    - Implement all the functions that translate assembly to machine code.
+   
    *** part 1 is fraudulently implemented for efficiency
   
 3. - Tokenazing step
