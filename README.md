@@ -7,7 +7,7 @@ My full implementation from Nand gate to a 16-bit ALU, CPU, Assembly, Machine co
    - Set2sCompliment, flip-flop, counter, register.
    - I implement a RAM, ALU with 19 functions (x+y,x-y,!x and more)
 
-2. - I implement a full Assembly and CPU.
+2. - I implement an Assembly and CPU.
    - connect all the parts (Cpu, Alu, memory, and more).
    - Implement all the functions that translate assembly to machine code.
    
